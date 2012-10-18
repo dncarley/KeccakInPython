@@ -4,10 +4,6 @@ See http://keccak.noekeon.org/ for the official implementation.
 KeccakInPython implements the SHA 3 hash function.  This project extends the original implementation by implementing testcases and optimizations for the KeccakInPython class.
 
 
-Additional documentation has been created with Doxygen for a quick overview of KeccakInPython.
-
-
-
 
 ------- Original README -------
 
